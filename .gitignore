@@ -2,3 +2,4 @@
 *.csv
 *.pkl
 1_fundamentals_of_machine_learning/iris_tree.dot
+1_fundamentals_of_machine_learning/mnist_mmap
